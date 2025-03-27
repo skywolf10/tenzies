@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s06j04g",
-  "description": "https://scrimba.com/learn-react-c0e/~02si",
+  "name": "Tenzies",
+  "description": "The game of Tenzies in React",
   "scripts": {
     "start": "vite",
     "dev": "vite",
